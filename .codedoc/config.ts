@@ -20,7 +20,7 @@ export const config = /*#__PURE__*/configuration({
   },
   page: {
     title: {
-      base: 'Coding Blog Boilerplate'         // --> change this to change your blog's title
+      base: 'victorvogelpoel.coding.blog'         // --> change this to change your blog's title
     },
     favicon: '/favicon.ico'
   },
